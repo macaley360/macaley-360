@@ -1,4 +1,4 @@
-```css
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -207,5 +207,3 @@ body {
     .roadmap {
         grid-template-columns: 1fr;
     }
-}
-```
