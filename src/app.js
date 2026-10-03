@@ -1,5 +1,7 @@
 // MACALEY 360
 // Punto de entrada de la aplicación.
-// La estructura se desarrollará progresivamente.
+
+import MACALEY_CONFIG from "./config.js";
 
 console.log("MACALEY 360 — aplicación iniciada");
+console.log("Configuración:", MACALEY_CONFIG);
